@@ -1,1 +1,2 @@
-# class42
+# C42 pair
+
